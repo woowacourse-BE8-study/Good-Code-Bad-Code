@@ -1,1 +1,14 @@
-.idea
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+
+# Java
+*.class
